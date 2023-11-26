@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="login.css">
+    <style>
+        body{
+
+           background-image: url('forum.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            position: relative; /* Position relative for absolute positioning of the form */
+            overflow: hidden; /* Hide overflowing content (the blurred image) */;
+}
+    </style>
+</head>
+<body>
+<header>
+    <nav>
+        <div class="nav-bar" id="test1">
+            <a href="index.html" class="nav">Почетна</a>
+            <a href="konvertor.html" class="nav">Конвертор</a>
+            <a href="fuzija.html" class="nav ">Библиотека</a>
+            <a href="pocetnaforum.html" class="nav active">Форум</a>
+        </div>
+    </nav>
+</header>
+<div class="container" >
+    <div class="row">
+
+        <form action="/login" method="post">
+            <h2>Пријавите се на форум</h2>
+
+            <label for="username">Корисничко име:</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="password">Шифра:</label>
+            <input type="password" id="password" name="password" required>
+
+            <input type="submit" value="Пријавите се">
+        </form>
+    </div>
+</div>
+</body>
+</html>

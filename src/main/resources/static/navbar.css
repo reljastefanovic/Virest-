@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+:root {
+    --primary: #1D1E2C;
+    --accent: #F7EBEC
+}
+
+
+.nav-bar {
+    background-color: #1D1E2C;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+
+}
+#test1{
+
+         background-image: url(https://coffeedream.rs/wp-content/uploads/2022/12/beige-paintbrush-stroke-textured-background-copy-1.webp);
+         background-blend-mode: multiply;
+         background-color:#3663a0;
+         background-size: cover;
+        background-repeat: no-repeat;
+        }
+
+.nav {
+
+    padding: 20px 25px 15px;
+    color: #fdfffc;
+    text-align: justify;
+    text-decoration: none;
+
+}
+
+.nav:hover {
+    background-color: var(--accent);
+    border-bottom: 5px solid var(--accent);
+    color:#1D1E2C;
+}
+
+.active {
+    border-bottom: 5px solid var(--accent);
+}
+.headline {
+    width: 100%;
+    height: 100%;
+    object-fit: con;
+    min-height: 350px;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.7)), url('VIREST-removebg-preview.png');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+.nav-bar>a{
+    text-decoration: none;
+}

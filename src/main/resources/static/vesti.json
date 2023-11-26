@@ -1,0 +1,68 @@
+{
+  "vest": [
+    {
+      "slika": "https://www.netvision.rs/upload/seo-optimizacija-sajta.jpg",
+      "text": "Латиница и ћирилица на истом сајту, SEO водич",
+      "opisni": "На интернету постоји прилично обимна документација која објашњава на који начин је потребно подесити странице мултијезичног сајта. Међутим, ако покушате пронаћи одговор која подешавања",
+      "card-link": "https://www.nenadpantelic.com/hreflang.html",
+      "datum": "26.11.2023"
+    },
+    {
+      "slika": "https://obukeikursevi.com/wp-content/uploads/2017/10/web-programiranje.jpg",
+      "text": "Нови материјали за учење програмирања доступни на petlja.org",
+      "opisni": "Од ове школске године на порталу petlja.org доступни су материјали за предмет Дигитални свет за све ниже разреде основних школа",
+      "card-link": "https://prosveta.gov.rs/vesti/novi-materijali-za-ucenje-programiranja-dostupni-na-portalu-petlja-or/",
+      "datum": "26.11.2023"
+    },
+    {
+      "slika": "https://www.rnids.rs/sites/default/files/images/ilustracije/azbuka.jpg",
+      "text": "Савети за коришћење ћирилице на интернету",
+      "opisni": "РНИДС жели да помогне српској интернет заједници да лакше користи ћирилицу у свакодневном раду, тако да се овде на једном месту налазе практични савети, потребни фонтови, алати и апликације  ",
+      "card-link": "https://www.rnids.rs/%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8/%D1%9B%D0%B8%D1%80%D0%B8%D0%BB%D0%B8%D1%86%D0%B0-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83",
+      "datum": "26.11.2023"
+    },
+    {
+      "slika": "https://pogled.me/wp-content/uploads/2020/10/VukKaradzicCirilicaGj.png",
+      "text": "По чему је то српска ћирилица посебна?",
+      "opisni": "Језик није само средство за споразумевање, оно по чему се припадници једног народа препознају и распознају. Он је и оруђе националне културе, израз једног духа и",
+      "card-link": "https://www.prometej.rs/education_post_type/po-cemu-je-srpska-cirilica-posebna/",
+      "datum": "25.11.2023"
+    },
+    {
+      "slika": "https://www.dnevnik.rs/sites/default/files/2023-10/Konferencija%202.jpg",
+      "text": "Зашто је важно чувати ћирилицу на интернету",
+      "opisni": "Српска ћирилица је аутентично, а не архаично писмо, чуло се на данашњој конференцији “Значај очувања ћирилице у дигиталној ери” коју је у Дому војске у Београду организовало  ",
+      "card-link": "https://www.dnevnik.rs/drustvo/znacaj-ocuvana-cirilice-u-digitalnoj-eri-bole-cirilica-nego-osisana-latinica-zasto-je-vazno",
+      "datum": "25.11.2023"
+    },
+    {
+      "slika":"https://www.rnids.rs/sites/default/files/images/ilustracije/cirilica.jpg",
+      "text": "Заблуде које постоје о ћирилици на интернету ",
+      "opisni": "Из лоше обавештених избора сазнајемо да Гугл не воли ћирилицу, да нема довољно ћириличних фонтова, да је тешко претварање из латинице у ћирилицу ",
+      "card-link": "https://agitprop.rs/zablude-o-cirilici-na-internetu/",
+      "datum": "25.11.2023"
+    },
+    {
+      "slika": "https://s.w.org/style/images/about/WordPress-logotype-alternative.png",
+      "text": "Како инсталирати Вордпрес на ћирилици и Вордпрес плугин",
+      "opisni": "Све више људи из Србије почиње да се окреће ћирилици као основном или додатном писму на свом сајту. Доста се расправља о томе и охрабрују се пројекти за враћање нашег писма у први пла",
+      "card-link": "https://adriahost.rs/%d0%ba%d0%b0%d0%ba%d0%be-%d0%b4%d0%b0-%d0%b8%d0%bd%d1%81%d1%82%d0%b0%d0%bb%d0%b8%d1%80%d0%b0%d1%82%d0%b5-%d0%b2%d0%be%d1%80%d0%b4%d0%bf%d1%80%d0%b5%d1%81-%d0%bd%d0%b0-%d1%9b%d0%b8%d1%80%d0%b8%d0%bb/",
+      "datum": "25.11.2023"
+    },
+    {
+      "slika": "https://www.helloworld.rs/public/media/2023/11/iBardChatGPT-18-1100x609.png",
+      "text": "Сазнајемо: У ИТ сектору очекује се даљи раст плата у 2024. години",
+      "opisni": "Да ли сте се питали шта програмери заправо желе и како менаџмент ИТ компанија",
+      "card-link": "https://www.helloworld.rs/blog/Saznajemo-U-IT-sektoru-ocekuje-se-dalji-rast-plata-u-2024.-godini/18338",
+      "datum": "25.11.2023"
+    },
+
+    {
+      "slika": "https://d2otj9qcw4h5ac.cloudfront.net/old/photos/192/192286/192286-min_kulture_i_info.PNG",
+      "text": "Државна иницијатива за очување ћирилице",
+      "opisni": "У припреми читав низ прописа и мера чији је циљ заштита матичног писма српског народа. Закон дефинише употребу језика и писма, а стратегија културе олакшице за коришћење",
+      "card-link": "https://www.novosti.rs/vesti/naslovna/drustvo/aktuelno.290.html:668886-Drzava-krece-u-boj-za-spas-cirilice",
+      "datum": "25.11.2023"
+    }
+  ]
+}
